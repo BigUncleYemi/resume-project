@@ -1,0 +1,25 @@
+{
+  "name": "Hng-task2-Resume-form",
+  "version": "1.0.0",
+  "description": "A interactive resume with a contact form",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": "https://github.com/BigUncleYemi/HNG-resume-project.git",
+  "author": "BigUncleYemi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "emailjs-com": "^3.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3",
+    "path": "^0.12.7",
+    "xhr2": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
