@@ -13,7 +13,7 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
 }
 .form-control {
   display: block;
-  width: 100%;
+  width: 90%;
   height: calc(1.5em + .75rem + 2px);
   padding: .375rem .75rem;
   font-size: 1rem;
